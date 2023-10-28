@@ -1,0 +1,9 @@
+Outputs:
+
+1. Desicion Tree:
+    Mean: 4.062444234862993
+    Standard deviation: 0.60740592734978 
+
+2. RandomForest Regression:
+    Mean: 3.322519546758224
+    Standard deviation: 0.7198542227557468
